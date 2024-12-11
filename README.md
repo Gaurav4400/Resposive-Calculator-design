@@ -1,6 +1,6 @@
 # Responsive Calculator Design
 
-Check out the design on [Figma](https://figma.com/link-to-your-design)
+Check out the design on [Figma]([https://figma.com/link-to-your-design](https://www.figma.com/files/team/1409116478558772511/recents-and-sharing?fuid=1409116476871131790))
 
 ---
 
